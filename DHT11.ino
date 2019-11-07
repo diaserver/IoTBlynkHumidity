@@ -2,12 +2,12 @@
 #include <ESP8266WiFi.h>
 #include <BlynkSimpleEsp8266.h>
 
-char auth[] = "X7meajTZhfMBztBtx-dhhKDZX8ukpwZW";
-char ssid[] = "kimtaewon";
-char pass[] = "12345678";
+char auth[] = "토큰-blynk메일로_받은거";
+char ssid[] = "와이파이ssid";
+char pass[] = "와이파이pwd";
 
 
-//라이브러리와 소스 파일은 첨부하였습니다.
+
 #include <dht11.h>                                   // dht11.h 라이브러리를 불러옵니다.
 
 dht11 DHT11;                                         // DHT11이라는 객체를 만들고 dht11의 내용을 넣어줍니다.
