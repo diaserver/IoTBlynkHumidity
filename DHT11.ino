@@ -1,3 +1,7 @@
+/* 예제 제작:
+대원국제중 김태원
+*/
+
 #define BLYNK_PRINT Serial
 #include <ESP8266WiFi.h>
 #include <BlynkSimpleEsp8266.h>
