@@ -16,7 +16,7 @@ char pass[] = "와이파이pwd";
 
 dht11 DHT11;                                         // DHT11이라는 객체를 만들고 dht11의 내용을 넣어줍니다.
 
-#define DHT11PIN D2                                   // DHT11PIN을 2로 설정합니다.
+#define DHT11PIN D0                                   // DHT11PIN을 2로 설정합니다.
 
 void setup()
 {
