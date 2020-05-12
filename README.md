@@ -1,4 +1,4 @@
-#IoT Humidity & Temperature
+# IoT - Humidity & Temperature Detector
 
 *주의사항*
 
@@ -12,4 +12,4 @@
 
 ==========================
 
-created by 김태원 2019.11.7
+created by 김태원(@twk1024) 2019.11.7
